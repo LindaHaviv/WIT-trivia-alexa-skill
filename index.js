@@ -259,13 +259,13 @@ const languageString = {
   'en-US': {
     translation: {
       QUESTIONS: questions.QUESTIONS_EN_US,
-      GAME_NAME: 'American Reindeer Trivia'
+      GAME_NAME: 'Women In Tech Trivia'
     },
   },
   'en-GB': {
     translation: {
       QUESTIONS: questions.QUESTIONS_EN_GB,
-      GAME_NAME: 'British Reindeer Trivia'
+      GAME_NAME: 'Women In Tech Trivia'
     },
   },
 };
